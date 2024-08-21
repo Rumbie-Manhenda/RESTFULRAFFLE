@@ -1,0 +1,361 @@
+2024-08-09 21:34:27,587 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 21:38:05,460 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 21:45:06,255 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 21:46:41,159 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 21:53:02,318 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:04:41,947 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:07:39,624 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:15:44,687 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:22:13,527 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:28:10,310 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:32:06,947 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:35:45,808 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:36:52,169 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:43:19,766 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:44:40,124 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:48:20,287 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:48:36,739 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:57:59,009 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:01:07,268 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:04:10,908 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:07:33,915 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:09:06,511 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:10:44,367 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:11:40,428 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:30:13,020 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:30:31,506 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:32:43,671 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:34:10,015 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:35:55,989 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:03:52,817 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:12:07,835 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:13:07,022 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:23:49,074 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:28:15,898 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:38:00,079 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:38:44,841 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:39:26,465 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:40:12,731 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:54:34,316 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:00:31,938 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:00:55,003 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:02:07,340 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:04:38,122 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:12:35,597 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:17:18,771 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:20:26,859 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:22:05,084 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:23:12,071 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:24:16,363 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:25:14,692 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:26:23,310 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:27:54,451 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:38:51,669 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:46:49,117 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:47:43,230 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:51:22,457 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:58:48,722 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:01:28,992 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:04:37,147 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:07:06,238 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:14:35,822 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:16:57,135 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:20:36,311 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:26:11,187 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-11 03:27:12,466 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-11 05:02:26,635 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 15:49:26,322 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 20:57:53,852 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 23:17:38,597 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 23:19:25,334 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 23:34:42,565 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 23:45:37,612 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 23:52:17,355 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:01:08,417 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:09:05,729 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:17:07,423 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:28:59,050 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:31:08,625 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-13 00:38:31,587 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:39:30,841 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-13 00:56:36,211 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:57:31,065 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:58:28,936 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-14 04:35:17,039 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-14 04:41:18,314 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-14 05:00:05,818 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-14 21:43:00,961 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:08:05,238 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:09:03,757 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 00:20:19,180 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:21:32,306 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 00:26:55,849 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:28:06,714 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 00:31:48,494 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:44:59,498 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:55:11,902 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:56:21,648 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 01:14:20,515 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 01:15:30,834 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 01:33:02,400 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 01:34:13,778 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 01:46:09,620 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 02:01:17,641 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 02:02:29,704 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 03:20:52,355 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 03:22:06,077 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 03:27:20,448 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 03:29:26,504 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 03:30:37,646 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 03:38:02,157 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,398 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,414 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,438 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,457 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,476 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,499 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,588 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,603 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,614 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,631 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,681 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,698 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,717 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,737 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,751 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,770 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,787 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,803 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,819 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,837 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:40:14,048 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 03:41:24,956 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 03:44:21,898 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 03:45:33,995 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 18:02:52,851 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 18:04:04,013 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 18:09:28,733 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 21:22:10,156 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:28:06,451 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:29:04,344 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 21:29:54,700 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:30:52,740 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 21:33:22,394 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 21:50:33,602 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-16 21:50:33,602 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:51:19,972 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-16 21:51:19,972 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:52:19,417 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-16 21:52:19,418 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:57:18,853 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:58:29,110 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 21:59:31,571 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-16 21:59:31,572 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:00:24,245 - WARNING - Unauthorized attempt to create raffle from IP: 127.0.0.1
+2024-08-16 22:00:24,246 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 22:08:53,593 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:15:11,224 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:18:31,433 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:19:43,862 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 22:22:29,450 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:23:35,205 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 22:56:58,519 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:58:10,460 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:00:30,182 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:01:35,602 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:11:09,144 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:12:31,439 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:18:39,934 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:19:45,595 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:26:46,192 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:27:00,392 - WARNING - No available tickets for raffle 4ab45907-63e9-4fe7-a0e5-51d209b0a365
+2024-08-16 23:27:05,229 - WARNING - IP 234.234.234.234 has already participated in raffle 265de379-9f06-42bc-9418-664a8ddad497
+2024-08-16 23:28:00,864 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:30:23,094 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:30:36,869 - WARNING - No available tickets for raffle e606cdde-0b70-4043-bdb7-3a3b4472789b
+2024-08-16 23:30:41,589 - WARNING - IP 234.234.234.234 has already participated in raffle 34139508-d0bb-4faf-9c06-af0669ad7b7f
+2024-08-16 23:31:33,767 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:35:12,656 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:35:26,826 - WARNING - No available tickets for raffle 108add68-f6ce-43ea-9c12-43fb49a39e82
+2024-08-16 23:35:31,872 - WARNING - IP 234.234.234.234 has already participated in raffle 22aeb65b-8808-4f69-9aa3-df0c11f6b41c
+2024-08-16 23:36:25,574 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:25:48,806 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:26:00,064 - WARNING - No available tickets for raffle cdc76b29-f674-4a91-9859-2c96ae32df0f
+2024-08-17 01:26:03,983 - WARNING - IP 234.234.234.234 has already participated in raffle 768921a5-c8bc-40b3-9de8-d26403d3b20e
+2024-08-17 01:26:46,651 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:28:29,335 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:28:40,553 - WARNING - No available tickets for raffle efb15020-807c-49e0-bc70-ba8d201dced6
+2024-08-17 01:28:44,448 - WARNING - IP 234.234.234.234 has already participated in raffle 58cdf8dd-9917-48ad-b574-d54d29c24684
+2024-08-17 01:29:27,989 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:30:47,616 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:30:58,869 - WARNING - No available tickets for raffle e936ee08-b905-402d-bacc-4e1d0e5d87f4
+2024-08-17 01:31:02,761 - WARNING - IP 234.234.234.234 has already participated in raffle 8bb677a1-c21d-4270-a401-7c69d2723953
+2024-08-17 01:31:45,359 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:34:12,155 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:34:23,357 - WARNING - No available tickets for raffle 1911bb8e-6e5d-4179-b88f-2b8b0b615f03
+2024-08-17 01:34:27,272 - WARNING - IP 234.234.234.234 has already participated in raffle e75f0732-c6d1-463a-906b-366613e3b1d8
+2024-08-17 01:35:11,196 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:52:29,349 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:52:40,911 - WARNING - No available tickets for raffle 7c002811-f3d1-42d9-b65b-98723233dac3
+2024-08-17 01:52:44,797 - WARNING - IP 234.234.234.234 has already participated in raffle 678ba532-5cfc-4b1d-b759-e5168511faa6
+2024-08-17 01:53:27,573 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:56:06,302 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:56:17,561 - WARNING - No available tickets for raffle c460b25f-9f97-4860-b7bf-c76089190be0
+2024-08-17 01:56:21,484 - WARNING - IP 234.234.234.234 has already participated in raffle 559fb32c-5926-4da5-b76f-e8228bf205d6
+2024-08-17 01:57:04,253 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 02:17:28,758 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 02:17:43,970 - WARNING - IP 234.234.234.234 has already participated in raffle 256dd824-cd4e-42f1-bcf4-b9a24121ed21
+2024-08-17 02:18:26,959 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 03:19:07,859 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 03:20:16,276 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 03:37:30,345 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 03:38:39,368 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 03:41:26,246 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 03:42:34,664 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 03:56:57,657 - INFO - IP 127.0.0.1 successfully participated in raffle d85f6135-63db-48b5-a028-0ae3a469d65b
+2024-08-17 04:35:32,439 - INFO - Raffle created successfully by IP: 127.0.0.1
+2024-08-17 04:43:29,283 - INFO - IP 127.0.0.1 successfully participated in raffle f7600549-a770-4791-b225-ab01b7e109aa
+2024-08-17 04:50:46,109 - INFO - Raffle created successfully by IP: 127.0.0.1
+2024-08-17 04:51:04,836 - INFO - IP 127.0.0.1 successfully participated in raffle c98f50d4-4363-4b9c-98c0-610ee022abaa
+2024-08-17 04:56:58,190 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 04:58:07,750 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 05:10:39,472 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 05:11:38,110 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 05:32:00,367 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 05:32:59,236 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 05:41:56,279 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 05:42:54,644 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 20:34:18,029 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 20:35:29,721 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 20:40:10,137 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 20:41:20,435 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 20:51:35,798 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 20:52:46,195 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 21:04:30,733 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 21:05:41,050 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 21:27:43,005 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 21:28:56,388 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 21:35:24,437 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 21:37:30,582 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 21:39:12,879 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 21:44:42,077 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 21:46:58,217 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 23:02:21,255 - INFO - IP 127.0.0.1 successfully participated in raffle 3ddd0d64-c89d-4dca-a187-85671fdf6b75
+2024-08-19 19:04:20,795 - INFO - Raffle created successfully by IP: 127.0.0.1
+2024-08-19 19:08:06,230 - INFO - Raffle created successfully by IP: 127.0.0.1
+2024-08-19 19:08:57,330 - INFO - IP 127.0.0.1 successfully participated in raffle 9d7ba8ec-349f-47a8-9cb3-8f7b5a597f88
+2024-08-19 19:10:14,925 - INFO - IP 127.0.0.1 successfully participated in raffle 31355815-43bf-435a-9c36-7b9bf97d38c0
+2024-08-20 23:56:46,952 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:01,284 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:01,285 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:06,326 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:06,624 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:49,415 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:58,472 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:58:07,465 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:59:39,593 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:59:53,391 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:59:53,392 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:59:58,225 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:59:58,512 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:00:39,838 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:00:48,718 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:00:57,325 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:01:15,073 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:01:19,446 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:10:38,803 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:10:52,772 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:10:52,773 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:10:57,625 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:10:57,958 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:11:38,836 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:11:47,894 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:11:56,539 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:12:14,620 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:12:19,105 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:18:24,114 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:18:37,732 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:18:42,421 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:19:23,228 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:19:25,297 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:19:34,117 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:19:42,607 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:20:00,517 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:20:04,951 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:06,217 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:06,217 - ERROR - Error response rendered: Only managers can create raffles. with a status code 403
+2024-08-21 01:16:06,636 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:06,779 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:20,863 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:20,864 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with a status code 410
+2024-08-21 01:16:25,838 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:25,838 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with a status code 403
+2024-08-21 01:17:07,665 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:17:07,666 - ERROR - Error response rendered: Invalid verification code. with a status code 400
+2024-08-21 01:17:17,023 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:17:17,023 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with a status code 403
+2024-08-21 01:17:25,821 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:17:25,821 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with a status code 403
+2024-08-21 01:17:44,010 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:17:44,010 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with a status code 403
+2024-08-21 01:17:48,675 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:17:48,675 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with a status code 400
+2024-08-21 01:19:11,442 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:19:11,443 - ERROR - Error response rendered: Only managers can create raffles. with a status code 403
+2024-08-21 01:19:11,837 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:19:11,990 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:19:26,386 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:19:26,387 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with a status code 410
+2024-08-21 01:19:31,363 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:19:31,363 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with a status code 403
+2024-08-21 01:23:41,842 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:23:42,236 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:23:42,281 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:26:53,074 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:26:53,484 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:26:53,536 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:31:33,781 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:31:33,782 - ERROR - Error response rendered: Only managers can create raffles. with a status code 403
+2024-08-21 01:31:34,457 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:31:34,751 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:32:01,116 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:32:01,117 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with a status code 410
+2024-08-21 01:32:10,209 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:32:10,209 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with a status code 403
+2024-08-21 01:34:46,350 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:34:46,758 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:34:46,811 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:35:13,401 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:37:07,050 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-21 01:37:07,060 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:37:07,456 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:37:32,895 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-21 01:37:41,704 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-21 01:38:58,515 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 01:39:02,356 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 01:39:18,833 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-21 01:39:34,738 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-21 01:39:49,848 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-21 01:39:53,549 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-21 03:04:20,741 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-21 03:04:20,757 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 03:04:21,022 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 03:04:35,029 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-21 03:04:39,895 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-21 03:05:22,114 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 03:05:24,287 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 03:05:33,527 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-21 03:05:42,555 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-21 03:06:01,201 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-21 03:06:05,848 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-21 03:37:31,816 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-21 03:37:31,832 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-21 03:37:31,843 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-21 03:37:46,091 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-21 03:37:51,099 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-21 03:38:33,300 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 03:38:35,453 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 03:38:44,637 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-21 03:38:53,531 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-21 03:39:12,046 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-21 03:39:16,592 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400

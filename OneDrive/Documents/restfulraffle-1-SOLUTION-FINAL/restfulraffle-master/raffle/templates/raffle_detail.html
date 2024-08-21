@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ raffle.name }}{% endblock %}
+
+{%block navlist%}
+<li class="nav-item">
+    <a class="nav-link text-center"href="{% url 'winner-list' pk=raffle.id %}"> Winners</a>
+</li>
+
+{%endblock navlist%}
+
+{% block content %}
+<div class="raffle-info-container">
+    <h1 class="raffle-title">{{ raffle.name }}</h1>
+    <div class="raffle-details">
+        <div class="detail-item">
+            <span class="detail-label">Available tickets:</span>
+            <span class="detail-value">{{ available_tickets }}</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Price per ticket:</span>
+            <span class="detail-value">$40</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Ceated at:</span>
+            <span class="detail-value">{{raffle.created_at.date}}</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Winners drawn:</span>
+            <span class="detail-value"> {% if winners_drawn %}Yes{% else %}No{% endif %}</span>
+        </div>
+    </div>
+</div>
+<form method="post" action="{% url 'raffle-participate' pk=raffle.id %}" onsubmit="return confirmParticipation()">
+    {% csrf_token %}
+    <div class="button-group">
+        <button onclick="" class="btn participate" type=  "submit">Participate in {{raffle.name}}</button>
+    </div>
+</form>
+
+<h2 class="mb-4">Verify Ticket</h2>
+<form method="post" class = "form" action="{% url 'verify-ticket' pk=raffle.id %}">
+    {% csrf_token %}
+    <div class="mb-3">
+        <label for="ticket_number" class="form-label">Ticket Number</label>
+        <input type="text" class="form-control" id="ticket_number" name="ticket_number" required>
+    </div>
+    <div class="mb-3">
+        <label for="verification_code" class="form-label">Verification Code</label>
+        <input type="text" class="form-control" id="verification_code" name="verification_code" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Verify Ticket</button>
+</form>
+<!-- this z a placeholder for success or error message -->
+<div id="message-box" class="mt-4"></div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    function confirmParticipation() {
+        return confirm('Are you sure you want to purchase a ticket for this raffle?');
+    }
+    </script>
+{% endblock extra_js%}
