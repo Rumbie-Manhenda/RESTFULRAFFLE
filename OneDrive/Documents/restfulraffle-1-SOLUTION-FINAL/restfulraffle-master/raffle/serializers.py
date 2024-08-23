@@ -14,7 +14,7 @@ class PrizeSerializer(serializers.Serializer):
     This serializer is used to validate and represent prize information
     within the RaffleSerializer. It does not directly correspond to a model.
     """
-    name = serializers.CharField(max_length=255)
+    name = serializers.CharField(max_length=255)  
     amount = serializers.IntegerField(min_value=1)
 
 

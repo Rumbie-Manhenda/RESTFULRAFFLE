@@ -1,5 +1,6 @@
 from django.conf import settings
 
+
 def is_manager_ip(request):
     """
     Check if the request IP is a manager IP.

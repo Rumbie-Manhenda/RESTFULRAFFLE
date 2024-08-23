@@ -2,7 +2,7 @@
 from django.shortcuts import get_object_or_404, render
 from django.views.generic import ListView
 from django.db import transaction
-from django.db.utils import IntegrityError
+
 from django.core.cache import cache
 from django.conf import settings
 
@@ -234,8 +234,9 @@ class ParticipateView(generics.CreateAPIView):
         Handle POST requests by allowing a user to participate in the raffle.
         The user is identified by their IP address and can claim one ticket per raffle.
         """
-        raffle = self.get_raffle()
-        participant_ip = self.get_participant_ip(request)
+        raffle = self.get_raffle() # get_object_or_404(Raffle, pk=self.kwargs['pk'])
+        participant_ip = self.get_participant_ip(request)#request.META.get('REMOTE_ADDR')
+
 
         # Check if there are available tickets
         if not self.has_available_tickets(raffle):
@@ -314,15 +315,14 @@ class ParticipateView(generics.CreateAPIView):
             Response: A success response with the ticket information, or an error response if no tickets are available.
         """
         try:
-            with transaction.atomic():
-                ticket = raffle.tickets.filter(participant_ip__isnull=True).select_for_update().first()
-                if ticket:
-                    verification_code = str(uuid.uuid4())
-                    ticket.set_verification_code(verification_code)
-                    ticket.participant_ip = participant_ip
-                    ticket.save()
-
-                    return self.handle_successful_participation(request, raffle, ticket, verification_code)              
+            ticket = raffle.get_random_ticket(participant_ip)
+            #ticket = raffle.tickets.filter(participant_ip__isnull=True).select_for_update().first()
+            if ticket:
+                verification_code = str(uuid.uuid4())
+                ticket.set_verification_code(verification_code)
+                #ticket.participant_ip = participant_ip
+                ticket.save()
+                return self.handle_successful_participation(request, raffle, ticket, verification_code)             
         except AlreadyParticipatedException() as e:
             context = {'request': request, 'raffle': raffle, 'template_name': 'participate.html'}
             return custom_exception_handler(e, context)

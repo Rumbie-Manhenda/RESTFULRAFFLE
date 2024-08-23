@@ -4,7 +4,7 @@ from django.dispatch import receiver
 from .models import Raffle
 
 
-@receiver(post_save, sender=Raffle)
+@receiver(post_save, sender=Raffle)#Django's signal receivers
 @receiver(post_delete, sender=Raffle)
 def invalidate_raffle_cache(sender, instance, **kwargs):
     """

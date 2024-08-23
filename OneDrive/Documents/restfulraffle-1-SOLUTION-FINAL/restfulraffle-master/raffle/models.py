@@ -11,6 +11,7 @@ from django.core.exceptions import ValidationError
 from django.contrib.auth.hashers import make_password, check_password
 import random
 import uuid
+from django.db import transaction
 
 
 class Raffle(models.Model):
@@ -25,7 +26,9 @@ class Raffle(models.Model):
         return self.name
 
     def clean(self):
-        """Validate the raffle instance."""
+        """Validate the raffle instance before being saved to the database.
+           Serves as a safeguard to ensure data integrity for the data being stored
+        """
         super().clean()
         self.validate_prizes()
 
@@ -61,22 +64,22 @@ class Raffle(models.Model):
         for i in range(self.total_tickets):
             ticket_number = (i % max_ticket_number) + 1
             ticket = Ticket(raffle=self, ticket_number=ticket_number)
-            ticket.set_verification_code(uuid.uuid4())  # Generating a unique verification code
+            #ticket.set_verification_code(uuid.uuid4())  # Generating a unique verification code
             tickets.append(ticket)
 
         random.shuffle(tickets)
 
-        # Creating tickets individually so that the save method is called for each
-        for ticket in tickets:
-            ticket.save()
+        # Creating tickets in bulk to optimize database operations
+        Ticket.objects.bulk_create(tickets)
 
     def get_random_ticket(self, participant_ip):
         """Get a random available ticket for the given participant IP."""
-        available_ticket = self.tickets.filter(participant_ip__isnull=True).order_by('?').first()
-        if available_ticket:
-            available_ticket.participant_ip = participant_ip
-            self.tickets.filter(id=available_ticket.id).update(participant_ip=participant_ip)
-            self.refresh_from_db()
+        with transaction.atomic():
+            available_ticket = self.tickets.select_related('raffle').filter(participant_ip__isnull=True).order_by('?').select_for_update().first()#to ensure non-sequential distribution of tickets
+            if available_ticket:
+                available_ticket.participant_ip = participant_ip
+                available_ticket.save()
+                self.refresh_from_db()
         return available_ticket
 
 
@@ -84,7 +87,7 @@ class Ticket(models.Model):
     """Represents a single ticket in a raffle."""
     raffle = models.ForeignKey('Raffle', on_delete=models.CASCADE, related_name='tickets')
     ticket_number = models.BigIntegerField(validators=[MinValueValidator(1)])
-    verification_code = models.CharField(max_length=128, unique=True, editable=False)
+    verification_code = models.CharField(max_length=128, unique=True, editable=False, null=True, blank=True)
     participant_ip = models.GenericIPAddressField(null=True, blank=True, unique=False)
     is_winner = models.BooleanField(default=False, editable=False)
 
@@ -93,6 +96,13 @@ class Ticket(models.Model):
 
     def __str__(self):
         return f"Ticket number: {self.ticket_number} for {self.raffle.name}"
+    
+    def save(self, *args, **kwargs):
+        """Hash and set the verification code before saving if not already set."""
+        if not self.verification_code: 
+            code = str(uuid.uuid4())  # Generate a unique verification code
+            self.set_verification_code(code)
+        super().save(*args, **kwargs)
 
     def set_verification_code(self, code):
         """Hash and set the verification code."""
@@ -102,13 +112,7 @@ class Ticket(models.Model):
         """Check if the provided code matches the hashed verification code."""
         return check_password(str(code), self.verification_code)
 
-    def save(self, *args, **kwargs):
-        """Hash and set the verification code before saving if not already set."""
-        if not self.verification_code: 
-            code = str(uuid.uuid4())  # Generate a unique verification code
-            self.set_verification_code(code)
-        super().save(*args, **kwargs)
-
+    
 
 class Winner(models.Model):
     """Represents a participant who has won a prize in a raffle."""
@@ -118,3 +122,5 @@ class Winner(models.Model):
 
     def __str__(self):
         return f"Winner of {self.prize} is with ticket {self.ticket.ticket_number}"
+ 
+ 

@@ -21,7 +21,7 @@ def custom_exception_handler(exc, context):
 
     Args:
         exc (Exception): The exception instance to be handled.
-        context (dict): The context dictionary containing request and other data.
+        context (dict): The context dictionary containing request,raffle & template_name.
 
     Returns:
         Response: An error response rendered in HTML or JSON.
