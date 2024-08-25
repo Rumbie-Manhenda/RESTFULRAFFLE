@@ -8,12 +8,10 @@ source env/bin/activate
 pip install -r requirements.txt
 export MANAGER_IPS=123.123.123.123,127.0.0.2
 pytest
-```
 
 ## Task
 
 Fix the failing tests by writing a raffle application in Python that provides a REST API.
-
 
 ## Rules and requirements
 
