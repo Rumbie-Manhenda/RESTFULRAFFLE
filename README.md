@@ -1,4 +1,6 @@
 # Restful raffle
+![Screenshot 2024-08-20 024801](https://github.com/user-attachments/assets/559944b5-e684-4dbd-b047-edf2e391bdfc)
+
 
 ## Getting started
 
@@ -42,4 +44,4 @@ Fix the failing tests by writing a raffle application in Python that provides a 
 | `POST /raffles/<id>/verify-ticket/` | Verify ticket and winnings        |      No      |
 
 
-## [SOLUTION SAMPLE ----->] (https://youtu.be/G_glPIl5Dro?si=DmiIH3oQ4esYO0BF)
+## ![SOLUTION SAMPLE ----->](https://youtu.be/G_glPIl5Dro?si=DmiIH3oQ4esYO0BF)
