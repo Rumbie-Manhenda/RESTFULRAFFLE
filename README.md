@@ -1,4 +1,5 @@
 # Restful raffle
+![Screenshot 2024-08-20 024801](https://github.com/user-attachments/assets/ed9fc574-b02c-44a1-962a-cd282e0b8ca4)
 
 ## Getting started
 
@@ -15,34 +16,13 @@
 2. Created additional tests to cover all the listed requirements.
 3. Added a fixture in `conftest.py` to disable caching during testing.
 ```python 
-DISABLE_TEST_CACHING = True
-
-@pytest.fixture(autouse=True)
-def disable_test_caching(settings):
-    settings.DISABLE_TEST_CACHING = True
-```
-
-4. Updated `settings.py` to configure pagination, renderers, exception handling, and caching settings.
-```python
-REST_FRAMEWORK = {
-    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
-    'PAGE_SIZE': 10,  # Number of items per page
-    'DEFAULT_RENDERER_CLASSES': (
-       'rest_framework.renderers.JSONRenderer',
-        'rest_framework.renderers.BrowsableAPIRenderer',
-        #'rest_framework.renderers.TemplateHTMLRenderer',
-    ),
-    'EXCEPTION_HANDLER': 'raffle.logging_utils.custom_exception_handler',
-}
-DISABLE_TEST_CACHING = True
-MANAGER_IPS = os.environ.get('MANAGER_IPS')
-```
 
 python3.9 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 export MANAGER_IPS=123.123.123.123,127.0.0.2
 pytest
+python manage.py runserver
 ```
 
 ## Task
@@ -82,3 +62,5 @@ When you are done, package the project directory as a zip file excluding externa
 | `POST /raffles/<id>/winners/`       | Draw winners of a raffle          |     Yes      |
 | `GET /raffles/<id>/winners/`        | List winners of a raffle          |      No      |
 | `POST /raffles/<id>/verify-ticket/` | Verify ticket and winnings        |      No      |
+
+**[Raffle Website Demo]**(https://youtu.be/G_glPIl5Dro?si=DmiIH3oQ4esYO0BF)
