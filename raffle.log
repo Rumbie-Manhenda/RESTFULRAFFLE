@@ -1,0 +1,886 @@
+2024-08-09 21:34:27,587 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 21:38:05,460 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 21:45:06,255 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 21:46:41,159 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 21:53:02,318 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:04:41,947 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:07:39,624 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:15:44,687 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:22:13,527 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:28:10,310 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:32:06,947 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:35:45,808 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:36:52,169 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:43:19,766 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:44:40,124 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:48:20,287 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:48:36,739 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 22:57:59,009 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:01:07,268 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:04:10,908 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:07:33,915 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:09:06,511 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:10:44,367 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:11:40,428 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:30:13,020 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:30:31,506 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:32:43,671 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:34:10,015 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-09 23:35:55,989 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:03:52,817 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:12:07,835 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:13:07,022 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:23:49,074 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:28:15,898 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:38:00,079 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:38:44,841 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:39:26,465 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:40:12,731 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 03:54:34,316 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:00:31,938 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:00:55,003 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:02:07,340 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:04:38,122 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:12:35,597 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:17:18,771 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:20:26,859 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:22:05,084 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:23:12,071 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:24:16,363 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:25:14,692 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:26:23,310 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:27:54,451 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:38:51,669 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:46:49,117 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:47:43,230 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:51:22,457 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 04:58:48,722 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:01:28,992 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:04:37,147 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:07:06,238 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:14:35,822 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:16:57,135 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:20:36,311 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-10 05:26:11,187 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-11 03:27:12,466 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-11 05:02:26,635 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 15:49:26,322 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 20:57:53,852 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 23:17:38,597 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 23:19:25,334 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 23:34:42,565 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 23:45:37,612 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-12 23:52:17,355 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:01:08,417 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:09:05,729 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:17:07,423 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:28:59,050 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:31:08,625 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-13 00:38:31,587 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:39:30,841 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-13 00:56:36,211 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:57:31,065 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-13 00:58:28,936 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-14 04:35:17,039 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-14 04:41:18,314 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-14 05:00:05,818 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-14 21:43:00,961 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:08:05,238 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:09:03,757 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 00:20:19,180 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:21:32,306 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 00:26:55,849 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:28:06,714 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 00:31:48,494 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:44:59,498 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:55:11,902 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 00:56:21,648 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 01:14:20,515 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 01:15:30,834 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 01:33:02,400 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 01:34:13,778 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 01:46:09,620 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 02:01:17,641 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 02:02:29,704 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 03:20:52,355 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 03:22:06,077 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 03:27:20,448 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 03:29:26,504 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 03:30:37,646 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 03:38:02,157 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,398 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,414 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,438 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,457 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,476 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,499 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,588 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,603 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,614 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,631 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,681 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,698 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,717 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,737 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,751 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,770 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,787 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,803 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,819 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:38:02,837 - ERROR - PermissionDenied: Request from 123.123.123.123 is not a manager IP.
+2024-08-15 03:40:14,048 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 03:41:24,956 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-15 03:44:21,898 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-15 03:45:33,995 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 18:02:52,851 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 18:04:04,013 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 18:09:28,733 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 21:22:10,156 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:28:06,451 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:29:04,344 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 21:29:54,700 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:30:52,740 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 21:33:22,394 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 21:50:33,602 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-16 21:50:33,602 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:51:19,972 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-16 21:51:19,972 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:52:19,417 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-16 21:52:19,418 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:57:18,853 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 21:58:29,110 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 21:59:31,571 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-16 21:59:31,572 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:00:24,245 - WARNING - Unauthorized attempt to create raffle from IP: 127.0.0.1
+2024-08-16 22:00:24,246 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 22:08:53,593 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:15:11,224 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:18:31,433 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:19:43,862 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 22:22:29,450 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:23:35,205 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 22:56:58,519 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 22:58:10,460 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:00:30,182 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:01:35,602 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:11:09,144 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:12:31,439 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:18:39,934 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:19:45,595 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:26:46,192 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:27:00,392 - WARNING - No available tickets for raffle 4ab45907-63e9-4fe7-a0e5-51d209b0a365
+2024-08-16 23:27:05,229 - WARNING - IP 234.234.234.234 has already participated in raffle 265de379-9f06-42bc-9418-664a8ddad497
+2024-08-16 23:28:00,864 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:30:23,094 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:30:36,869 - WARNING - No available tickets for raffle e606cdde-0b70-4043-bdb7-3a3b4472789b
+2024-08-16 23:30:41,589 - WARNING - IP 234.234.234.234 has already participated in raffle 34139508-d0bb-4faf-9c06-af0669ad7b7f
+2024-08-16 23:31:33,767 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-16 23:35:12,656 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-16 23:35:26,826 - WARNING - No available tickets for raffle 108add68-f6ce-43ea-9c12-43fb49a39e82
+2024-08-16 23:35:31,872 - WARNING - IP 234.234.234.234 has already participated in raffle 22aeb65b-8808-4f69-9aa3-df0c11f6b41c
+2024-08-16 23:36:25,574 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:25:48,806 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:26:00,064 - WARNING - No available tickets for raffle cdc76b29-f674-4a91-9859-2c96ae32df0f
+2024-08-17 01:26:03,983 - WARNING - IP 234.234.234.234 has already participated in raffle 768921a5-c8bc-40b3-9de8-d26403d3b20e
+2024-08-17 01:26:46,651 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:28:29,335 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:28:40,553 - WARNING - No available tickets for raffle efb15020-807c-49e0-bc70-ba8d201dced6
+2024-08-17 01:28:44,448 - WARNING - IP 234.234.234.234 has already participated in raffle 58cdf8dd-9917-48ad-b574-d54d29c24684
+2024-08-17 01:29:27,989 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:30:47,616 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:30:58,869 - WARNING - No available tickets for raffle e936ee08-b905-402d-bacc-4e1d0e5d87f4
+2024-08-17 01:31:02,761 - WARNING - IP 234.234.234.234 has already participated in raffle 8bb677a1-c21d-4270-a401-7c69d2723953
+2024-08-17 01:31:45,359 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:34:12,155 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:34:23,357 - WARNING - No available tickets for raffle 1911bb8e-6e5d-4179-b88f-2b8b0b615f03
+2024-08-17 01:34:27,272 - WARNING - IP 234.234.234.234 has already participated in raffle e75f0732-c6d1-463a-906b-366613e3b1d8
+2024-08-17 01:35:11,196 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:52:29,349 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:52:40,911 - WARNING - No available tickets for raffle 7c002811-f3d1-42d9-b65b-98723233dac3
+2024-08-17 01:52:44,797 - WARNING - IP 234.234.234.234 has already participated in raffle 678ba532-5cfc-4b1d-b759-e5168511faa6
+2024-08-17 01:53:27,573 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 01:56:06,302 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 01:56:17,561 - WARNING - No available tickets for raffle c460b25f-9f97-4860-b7bf-c76089190be0
+2024-08-17 01:56:21,484 - WARNING - IP 234.234.234.234 has already participated in raffle 559fb32c-5926-4da5-b76f-e8228bf205d6
+2024-08-17 01:57:04,253 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 02:17:28,758 - ERROR - PermissionDenied: Request from 123.234.123.234 is not a manager IP.
+2024-08-17 02:17:43,970 - WARNING - IP 234.234.234.234 has already participated in raffle 256dd824-cd4e-42f1-bcf4-b9a24121ed21
+2024-08-17 02:18:26,959 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 03:19:07,859 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 03:20:16,276 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 03:37:30,345 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 03:38:39,368 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 03:41:26,246 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 03:42:34,664 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 03:56:57,657 - INFO - IP 127.0.0.1 successfully participated in raffle d85f6135-63db-48b5-a028-0ae3a469d65b
+2024-08-17 04:35:32,439 - INFO - Raffle created successfully by IP: 127.0.0.1
+2024-08-17 04:43:29,283 - INFO - IP 127.0.0.1 successfully participated in raffle f7600549-a770-4791-b225-ab01b7e109aa
+2024-08-17 04:50:46,109 - INFO - Raffle created successfully by IP: 127.0.0.1
+2024-08-17 04:51:04,836 - INFO - IP 127.0.0.1 successfully participated in raffle c98f50d4-4363-4b9c-98c0-610ee022abaa
+2024-08-17 04:56:58,190 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 04:58:07,750 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 05:10:39,472 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 05:11:38,110 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 05:32:00,367 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 05:32:59,236 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 05:41:56,279 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 05:42:54,644 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 20:34:18,029 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 20:35:29,721 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 20:40:10,137 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 20:41:20,435 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 20:51:35,798 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 20:52:46,195 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 21:04:30,733 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 21:05:41,050 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 21:27:43,005 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 21:28:56,388 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 21:35:24,437 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 21:37:30,582 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 21:39:12,879 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 21:44:42,077 - WARNING - Unauthorized attempt to create raffle from IP: 123.234.123.234
+2024-08-17 21:46:58,217 - ERROR - PermissionDenied: Request from 127.0.0.1 is not a manager IP.
+2024-08-17 23:02:21,255 - INFO - IP 127.0.0.1 successfully participated in raffle 3ddd0d64-c89d-4dca-a187-85671fdf6b75
+2024-08-19 19:04:20,795 - INFO - Raffle created successfully by IP: 127.0.0.1
+2024-08-19 19:08:06,230 - INFO - Raffle created successfully by IP: 127.0.0.1
+2024-08-19 19:08:57,330 - INFO - IP 127.0.0.1 successfully participated in raffle 9d7ba8ec-349f-47a8-9cb3-8f7b5a597f88
+2024-08-19 19:10:14,925 - INFO - IP 127.0.0.1 successfully participated in raffle 31355815-43bf-435a-9c36-7b9bf97d38c0
+2024-08-20 23:56:46,952 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:01,284 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:01,285 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:06,326 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:06,624 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:49,415 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:57:58,472 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:58:07,465 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:59:39,593 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:59:53,391 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:59:53,392 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:59:58,225 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-20 23:59:58,512 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:00:39,838 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:00:48,718 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:00:57,325 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:01:15,073 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:01:19,446 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:10:38,803 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:10:52,772 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:10:52,773 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:10:57,625 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:10:57,958 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:11:38,836 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:11:47,894 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:11:56,539 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:12:14,620 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:12:19,105 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:18:24,114 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:18:37,732 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:18:42,421 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:19:23,228 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:19:25,297 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:19:34,117 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:19:42,607 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:20:00,517 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 00:20:04,951 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:06,217 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:06,217 - ERROR - Error response rendered: Only managers can create raffles. with a status code 403
+2024-08-21 01:16:06,636 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:06,779 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:20,863 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:20,864 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with a status code 410
+2024-08-21 01:16:25,838 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:16:25,838 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with a status code 403
+2024-08-21 01:17:07,665 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:17:07,666 - ERROR - Error response rendered: Invalid verification code. with a status code 400
+2024-08-21 01:17:17,023 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:17:17,023 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with a status code 403
+2024-08-21 01:17:25,821 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:17:25,821 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with a status code 403
+2024-08-21 01:17:44,010 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:17:44,010 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with a status code 403
+2024-08-21 01:17:48,675 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:17:48,675 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with a status code 400
+2024-08-21 01:19:11,442 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:19:11,443 - ERROR - Error response rendered: Only managers can create raffles. with a status code 403
+2024-08-21 01:19:11,837 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:19:11,990 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:19:26,386 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:19:26,387 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with a status code 410
+2024-08-21 01:19:31,363 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:19:31,363 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with a status code 403
+2024-08-21 01:23:41,842 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:23:42,236 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:23:42,281 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:26:53,074 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:26:53,484 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:26:53,536 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:31:33,781 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:31:33,782 - ERROR - Error response rendered: Only managers can create raffles. with a status code 403
+2024-08-21 01:31:34,457 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:31:34,751 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:32:01,116 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:32:01,117 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with a status code 410
+2024-08-21 01:32:10,209 - ERROR - Error response rendered: An unexpected error occurred. with a status code 500
+2024-08-21 01:32:10,209 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with a status code 403
+2024-08-21 01:34:46,350 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:34:46,758 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:34:46,811 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:35:13,401 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:37:07,050 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-21 01:37:07,060 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:37:07,456 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 01:37:32,895 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-21 01:37:41,704 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-21 01:38:58,515 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 01:39:02,356 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 01:39:18,833 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-21 01:39:34,738 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-21 01:39:49,848 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-21 01:39:53,549 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-21 03:04:20,741 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-21 03:04:20,757 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 03:04:21,022 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-21 03:04:35,029 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-21 03:04:39,895 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-21 03:05:22,114 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 03:05:24,287 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 03:05:33,527 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-21 03:05:42,555 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-21 03:06:01,201 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-21 03:06:05,848 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-21 03:37:31,816 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-21 03:37:31,832 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-21 03:37:31,843 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-21 03:37:46,091 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-21 03:37:51,099 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-21 03:38:33,300 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 03:38:35,453 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 03:38:44,637 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-21 03:38:53,531 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-21 03:39:12,046 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-21 03:39:16,592 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-21 04:07:28,867 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-21 04:07:28,874 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-21 04:07:28,884 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-21 04:07:43,085 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-21 04:07:48,089 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-21 04:08:30,669 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 04:08:32,864 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 04:08:42,320 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-21 04:08:50,986 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-21 04:09:08,815 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-21 04:09:13,256 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-21 17:16:13,464 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-21 17:16:13,479 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-21 17:16:13,487 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-21 17:16:27,515 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-21 17:16:32,339 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-21 17:17:14,508 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 17:17:16,645 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 17:17:25,728 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-21 17:17:34,755 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-21 17:17:52,821 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-21 17:17:57,259 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-21 20:01:35,553 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-21 20:01:35,568 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-21 20:01:35,576 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-21 20:01:49,201 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-21 20:01:53,851 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-21 20:02:34,451 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 20:02:36,508 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-21 20:02:45,462 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-21 20:02:53,996 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-21 20:03:11,736 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-21 20:03:16,105 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-21 20:43:12,045 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-21 20:43:12,054 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-21 20:43:12,064 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-21 20:43:26,120 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-21 20:43:30,993 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-21 20:44:19,407 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-21 20:44:28,297 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-21 20:44:46,494 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-21 20:44:50,924 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-22 00:45:01,926 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-22 00:45:01,940 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-22 00:45:01,951 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-22 00:45:16,299 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-22 00:45:21,230 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-22 00:46:07,726 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-22 00:46:16,184 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-22 00:46:33,847 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-22 00:46:38,203 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-22 00:57:47,752 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-22 00:57:47,760 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-22 00:57:47,767 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-22 00:58:01,243 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-22 00:58:05,917 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-22 00:58:52,536 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-22 00:59:01,021 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-22 00:59:19,360 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-22 00:59:23,771 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-22 01:06:42,695 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-22 01:06:42,704 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-22 01:06:42,715 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-22 01:06:56,857 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-22 01:07:01,817 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-22 01:07:49,146 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-22 01:07:58,214 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-22 01:08:16,275 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-22 01:08:20,814 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-22 01:13:23,658 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-22 01:13:23,668 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-22 01:13:23,675 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-22 01:13:37,554 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-22 01:13:42,189 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-22 01:14:29,825 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-22 01:14:38,605 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-22 01:14:56,897 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-22 01:15:01,408 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-22 01:18:39,211 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-22 01:18:39,220 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-22 01:18:39,227 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-22 01:18:53,079 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-22 01:18:57,895 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-22 01:19:43,821 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-22 01:19:50,952 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-22 01:20:06,236 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-22 01:20:10,666 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-22 01:21:58,295 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-22 01:22:05,480 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-22 01:22:20,201 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-22 01:22:23,842 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-22 01:23:04,734 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-22 01:23:06,467 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-22 02:44:36,699 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:36,942 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:36,975 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,038 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,066 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,098 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,127 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,149 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,176 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,199 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,220 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,253 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,283 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,316 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,341 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,366 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,388 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,420 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,445 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,471 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,504 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:44:37,530 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:47:10,902 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 02:47:11,060 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:17,520 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:17,984 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,035 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,133 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,183 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,227 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,285 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,325 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,360 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,401 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,439 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,488 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,533 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,585 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,627 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,672 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,743 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,808 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,873 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,935 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:18,988 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:06:19,032 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:10,082 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:10,518 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:10,569 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:10,658 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:10,706 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:10,758 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:10,814 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:10,857 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:10,897 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:10,939 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:10,972 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:11,024 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:11,072 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:11,116 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:11,163 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:11,201 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:11,249 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:11,299 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:11,348 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:11,393 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:11,441 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:08:11,486 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-22 03:11:33,213 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-22 03:11:33,229 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-22 03:11:33,253 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-22 03:11:58,356 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-22 03:12:07,004 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-22 03:13:21,255 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-22 03:13:25,050 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-22 03:13:39,216 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-22 03:13:47,944 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-22 03:24:23,505 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-22 03:24:31,900 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 00:40:28,048 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 00:40:28,228 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 00:40:28,233 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 00:40:39,622 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 00:40:43,589 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 00:40:51,609 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 00:41:06,810 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 00:41:08,525 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 00:41:15,886 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 00:41:23,034 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 00:41:37,860 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 00:41:41,554 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 00:43:44,279 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 00:43:48,098 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 00:43:48,103 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 00:43:59,383 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 00:44:03,583 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 00:44:11,711 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 00:44:26,805 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 00:44:28,534 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 00:44:35,900 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 00:44:43,169 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 00:44:58,289 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 00:45:01,953 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 00:59:49,457 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 00:59:49,706 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 00:59:49,714 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 01:00:03,620 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 01:00:08,442 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 01:00:17,991 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:00:36,586 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:00:38,690 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:00:47,904 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 01:00:56,737 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 01:01:14,920 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 01:01:19,410 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 01:06:23,612 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:06:23,860 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 01:06:23,867 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 01:06:37,437 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 01:06:42,127 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 01:06:51,639 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:07:09,608 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:07:11,730 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:07:20,581 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 01:07:29,057 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 01:07:46,608 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 01:07:50,958 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 01:11:16,033 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:11:20,595 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 01:11:20,604 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 01:11:33,938 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 01:11:38,540 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 01:12:18,755 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:12:20,823 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:12:29,527 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 01:12:37,972 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 01:12:55,492 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 01:12:59,841 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 01:16:49,839 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 01:16:49,849 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 01:16:49,857 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 01:17:03,195 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 01:17:07,817 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 01:17:48,085 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:17:50,180 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:17:58,992 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 01:18:07,452 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 01:18:25,149 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 01:18:29,517 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 01:31:35,285 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:35,568 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:35,614 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:35,687 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:35,722 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:35,765 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:35,809 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:35,840 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 01:31:35,850 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:35,879 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:35,906 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:35,946 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:35,979 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:36,016 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:36,047 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:36,080 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:36,116 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:36,154 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:36,195 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:36,231 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:36,265 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:31:36,305 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:14,634 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:14,906 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:14,945 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,015 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,051 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,089 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,135 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,161 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 01:34:15,173 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,202 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,233 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,275 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,315 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,354 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,384 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,410 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,448 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,485 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,528 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,562 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,599 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:34:15,634 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:38:13,109 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 01:38:13,116 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 01:38:13,127 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 01:38:27,583 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 01:38:32,616 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 01:38:42,394 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:39:01,470 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:39:03,599 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:39:13,231 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 01:39:22,049 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 01:39:40,113 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 01:39:44,453 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 01:42:02,861 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 01:42:02,870 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 01:42:02,879 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 01:42:17,468 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 01:42:22,272 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 01:42:32,200 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:42:51,340 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:42:53,495 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:43:02,507 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 01:43:11,660 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 01:43:28,156 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:43:32,914 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 01:51:12,441 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 01:51:12,448 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 01:51:12,455 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 01:51:25,827 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 01:51:30,443 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 01:51:39,657 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 01:51:57,654 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:51:59,765 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 01:52:08,532 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 01:52:17,041 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 01:52:34,564 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 01:52:38,974 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 01:59:40,776 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 01:59:40,786 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 01:59:40,796 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 01:59:54,801 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 01:59:59,616 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 02:00:40,226 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 02:00:42,335 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 02:00:51,510 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 02:01:01,492 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 02:01:19,399 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 02:01:23,724 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 02:12:01,109 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 02:12:01,117 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 02:12:01,125 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 02:12:14,714 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 02:12:19,401 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 02:12:47,636 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 02:12:59,733 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 02:13:01,877 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 02:13:10,984 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 02:13:19,847 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 02:13:38,293 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 02:13:42,793 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 02:31:37,191 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 02:31:37,198 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 02:31:37,205 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 02:31:50,594 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 02:31:55,215 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 02:32:23,399 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 02:32:35,293 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 02:32:37,372 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 02:32:46,110 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 02:32:54,596 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 02:33:13,079 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 02:33:17,547 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 03:04:45,162 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:45,489 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:45,571 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:45,611 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:45,653 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:45,693 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:45,738 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:45,772 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 03:04:45,783 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 03:04:45,791 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 03:04:45,805 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:45,849 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:45,893 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:45,931 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:45,971 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:46,017 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:46,052 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:46,100 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:46,143 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:46,183 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:46,230 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:04:46,282 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,168 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,379 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,414 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,478 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,511 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,551 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,587 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,612 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 03:08:37,620 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 03:08:37,630 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 03:08:37,641 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,677 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,713 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,747 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,788 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,822 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,848 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,885 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,918 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,952 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:37,994 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:08:38,026 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:11:08,717 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 03:11:57,495 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:12:56,786 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:13:02,316 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 03:16:17,976 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 03:16:28,623 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 03:18:12,456 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:12,870 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:12,997 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,036 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,076 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,114 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,152 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,176 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 03:18:13,185 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 03:18:13,192 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 03:18:13,208 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,247 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,288 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,330 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,369 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,408 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,442 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,487 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,530 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,574 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,616 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:18:13,655 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:25,818 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,069 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,137 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,172 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,205 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,241 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,284 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,306 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 03:22:26,317 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 03:22:26,326 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 03:22:26,335 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,375 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,410 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,441 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,474 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,511 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,541 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,578 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,616 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,658 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,692 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:22:26,727 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:26:37,453 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 03:26:37,460 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 03:26:37,469 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 03:26:52,392 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 03:26:57,290 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 03:27:38,285 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 03:27:40,385 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 03:27:49,295 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 03:27:58,071 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 03:28:16,061 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 03:28:20,457 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 03:31:12,859 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,064 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,123 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,154 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,182 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,220 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,251 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,275 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 03:31:13,283 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 03:31:13,289 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 03:31:13,300 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,329 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,358 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,390 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,419 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,450 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,476 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,515 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,545 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,582 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,612 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:31:13,644 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 03:34:04,099 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 03:34:04,109 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 03:34:04,116 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 03:34:14,101 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 03:34:14,703 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 03:34:28,394 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 03:34:30,442 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 03:34:39,323 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 03:34:47,517 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 03:35:05,254 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 03:35:05,271 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 04:14:58,839 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 04:14:58,845 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 04:14:58,851 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 04:15:06,838 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 04:15:07,340 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 04:15:18,888 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 04:15:20,670 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 04:15:28,190 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 04:15:35,199 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 04:15:50,234 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 04:15:50,246 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 15:05:20,756 - INFO - Raffle created successfully by IP: 127.0.0.1
+2024-08-23 15:05:39,763 - INFO - IP 127.0.0.1 successfully participated in raffle 32574230-33a3-4679-8c8b-b877c9c54407
+2024-08-23 15:06:13,108 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 15:09:43,419 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 15:14:17,099 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 15:15:37,934 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 15:17:00,887 - ERROR - Error response rendered: Only managers can create raffles. with status code 403
+2024-08-23 15:17:00,891 - ERROR - Error response rendered: At least one prize is required for a raffle. with status code 400
+2024-08-23 15:17:00,898 - ERROR - Error response rendered: Too many prizes, the total number of prizes cannot exceed the total number of tickets. with status code 400
+2024-08-23 15:17:08,776 - ERROR - Error response rendered: Tickets to this raffle are no longer available. with status code 410
+2024-08-23 15:17:09,278 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
+2024-08-23 15:17:20,760 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 15:17:22,516 - ERROR - Error response rendered: Invalid verification code. with status code 400
+2024-08-23 15:17:29,995 - ERROR - Error response rendered: Permission denied. You are not authorized to perform this action.Only managers can draw winners with status code 403
+2024-08-23 15:17:36,985 - ERROR - Error response rendered: Winners can't be drawn when tickets are still available. with status code 403
+2024-08-23 15:17:52,046 - ERROR - Error response rendered: Winners for the raffle have already been drawn. with status code 403
+2024-08-23 15:17:52,060 - ERROR - Error response rendered: Winners for the raffle have not been drawn yet. with status code 400
+2024-08-23 16:12:15,538 - ERROR - Error response rendered: An unexpected error occurred. with status code 500
+2024-08-23 16:13:24,314 - ERROR - Error response rendered: Your IP address has already participated in this raffle. with status code 403
