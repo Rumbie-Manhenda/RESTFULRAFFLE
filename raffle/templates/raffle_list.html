@@ -1,0 +1,88 @@
+<!-- raffle_list.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% load custom_tags %}
+
+{% block title %}Raffles{% endblock %}
+
+{% block header %}
+<div class="container">
+    <form class="row g-3 align-items-center" method="get">
+        <!-- Searching -->
+        <div class="col-md-3">
+            <label for="name" class="form-label visually-hidden">Search by name</label>
+            <input type="text" id="name" class="form-control" name="name" placeholder="Search by name">
+        </div>
+        <div class="col-md-3">
+            <label for="created_at" class="form-label visually-hidden">Created at</label>
+            <input type="date" id="created_at" class="form-control" name="created_at">
+        </div>
+        <div class="col-md-2">
+            <label for="winners_drawn" class="form-label visually-hidden">Winners Drawn</label>
+            <select id="winners_drawn" class="form-select" name="winners_drawn">
+                <option value="" selected>Winners Drawn</option>
+                <option value="true">Yes</option>
+                <option value="false">No</option>
+            </select>
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </form>
+</div>
+{%endblock header%}
+{% block content %}
+
+<div class="row">
+    <h1 class="mb-4 text-center">Welcome to Restful Raffle</h1>
+    {% for raffle in raffles %}
+    <div class="col-md-4 mb-4">
+        <div class="card h-100">
+            <a href="{% url 'raffle-detail' pk=raffle.id %}" class="text-decoration-none">
+                <img src="{% static 'raffle_images/' %}{% random_image %}" class="card-img-top raffle-image" alt="Raffle image">
+                <div class="card-body d-flex flex-column">
+                    <h3 class="card-title">{{ raffle.name }}</h3>
+                    <p class="card-text date-text">Created on: {{ raffle.created_at.date}}</p>
+                    <div class="mt-auto text-center">
+                        <button class="btn btn-primary">View Details</button>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    
+
+    {% endfor %}
+</div>
+<!-- This will display only if the user is a manager -->
+{% if is_manager %}
+    <h2 class= "text-center">Create New Raffle</h2>
+    <form method="post" class = "form"> 
+        <div class = "mb-3">
+            {% csrf_token %}
+            {{ raffle_form.as_p }}
+        </div>
+        <button type="submit" class="btn btn-primary">Create Raffle</button>
+    </form>
+{% endif %}
+{% if success_message %}
+<div class="alert alert-success">
+{{ success_message }}
+</div>
+<a href="{% url 'raffle-list-create'  %}" class="btn btn-primary">Back to Raffles</a>
+
+{% elif error_message %}
+<div class="alert alert-danger">
+    <strong>Error:</strong> {{ error_message }}
+</div>
+
+<div class="alert alert-info">
+    <strong>Note:</strong> For managers only !!.
+ <br>
+</div>
+
+{% else %}
+
+{% endif %}
+{% endblock %}

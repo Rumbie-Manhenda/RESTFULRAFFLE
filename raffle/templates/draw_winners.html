@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    Participate in Raffle
+{% endblock %}
+
+{% block content %}
+    {% if success_message %}
+    
+        <h1 class="mb-4">Winners of {{ raffle.name }}</h1>
+        <div class="alert alert-success">
+            <strong>Success:</strong> {{ success_message }}
+        </div>    
+<ul class="list-group">
+    {% if not winners %}
+    <li class="list-group-item">No winners yet.</li>
+    {% endif %}
+    {% for winner in winners %}
+    <li class="list-group-item">
+        Ticket: {{ winner.ticket }} - Prize: {{ winner.prize }}
+    </li>
+    {% endfor %}
+        <a href="{% url 'raffle-detail' raffle.id %}" class="btn btn-primary">Back to Raffle Details</a>
+    {% elif error_message %}
+        <div class="alert alert-danger">
+            <strong>Error:</strong> {{ error_message }}
+        </div>
+        <a href="{% url 'raffle-detail' raffle.id %}" class="btn btn-primary">Back to Raffle Details</a>
+    <!-- If there are no mssages-->
+    {% else %}
+        <h1>Draw Winners for {{ raffle.name }}</h1>
+        <p>Click the button below to draw winners for the raffle.</p>
+        <form method="POST" class = "form" action="{% url 'winner-list' raffle.id %}">
+            {% csrf_token %}
+            <button type="submit" class="btn btn-primary">Draw Winners</button>
+        </form>
+       
+    {% endif %}
+{% endblock %}

@@ -1,0 +1,24 @@
+
+{% extends 'base.html' %}
+
+{% block title %}Verify Ticket{% endblock %}
+
+{% block content %}
+{% if success_message %}
+<div  class="alert alert-success">
+    <strong>Success:</strong> {{ success_message }}<p> You won {{prize}}</p>
+</div> 
+<a href="{% url 'raffle-detail' raffle.id %}" class="btn btn-primary">Back to Raffle Details</a>
+<a href="{% url 'winner-list' raffle.id %}" class="btn btn-primary"> Winners</a>
+
+{% elif error_message %}
+<div class="alert alert-danger">
+    <strong>Error:</strong> {{ error_message }}
+</div>
+<a href="{% url 'raffle-detail' raffle.id %}" class="btn btn-primary">Back to Raffle Details</a>
+
+{% else %}
+<a href="{% url 'raffle-detail' raffle.id  %}" class="btn btn-primary">Back to Raffle Details</a>
+{% endif %}
+
+{% endblock %}
