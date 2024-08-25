@@ -1,8 +1,0 @@
-env
-.pytest_cache
-**/*.pyc
-**/__pycache__
-**/*.sqlite3
-*.iml
-dist
-raffleEnv/
