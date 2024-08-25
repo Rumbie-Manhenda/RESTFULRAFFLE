@@ -63,4 +63,4 @@ When you are done, package the project directory as a zip file excluding externa
 | `GET /raffles/<id>/winners/`        | List winners of a raffle          |      No      |
 | `POST /raffles/<id>/verify-ticket/` | Verify ticket and winnings        |      No      |
 
-**[Raffle Website Demo]**(https://youtu.be/G_glPIl5Dro?si=DmiIH3oQ4esYO0BF)
+**[Raffle Website Demo](https://youtu.be/G_glPIl5Dro?si=DmiIH3oQ4esYO0BF)**
