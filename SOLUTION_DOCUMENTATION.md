@@ -1,5 +1,5 @@
 
-```markdown
+
 # RESTful Raffle Application Documentation
 
 This document outlines the implementation details of the RESTful Raffle application, detailing the setup, structure, and functionality as specified in the accompanying `README.md` file.
