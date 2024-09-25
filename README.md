@@ -25,17 +25,9 @@ pytest
 python manage.py runserver
 ```
 
-## Task
 
-Fix the failing tests by writing a raffle application in Python that provides a REST API.
 
-Make modifications to the project structure and existing files (including `testing/*.py`) as needed. The project has been initialized as an empty Django project with Django REST framework to get you going. You can remove those or start from scratch, if you prefer something else. However, you must incorporate `testing/*.py` in your project to validate the raffle behavior. The application is ready when the tests pass and rules and requirements listed below are followed.
-
-Update the "Getting started" instructions above, if additional steps or changes are needed to run the tests. Update also the "API endpoints" table below, if changes are made.
-
-When you are done, package the project directory as a zip file excluding external libraries - using the included `package.sh` might be helpful. Submit your zip according to instructions given separately.
-
-## Rules and requirements
+## Requirements
 
 * The raffle manager creates a new raffle specifying the number of tickets and the prizes.
 * Ticket numbers for each raffle are sequential starting from `1`. I.e. if a raffle has 50 tickets total, the ticket numbers must be `1, 2, ..., 49, 50`. 
